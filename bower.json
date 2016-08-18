@@ -1,0 +1,17 @@
+{
+    "name": "stalinone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/stalinone-bower.git"
+    },
+    "description": "Stalin One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
